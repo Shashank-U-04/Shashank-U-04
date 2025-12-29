@@ -1,82 +1,93 @@
-# 👋 Hi, I'm Shashank U
-
-🎓 Computer Science and Engineering student at REVA University  
-💻 Aspiring Software Engineer | Full-Stack & Cyber Security Enthusiast  
-🌱 Building real-world products, not just projects  
+# Hi, I'm Shashank 👋  
+**CSE Student | Software Engineer Aspirant**
 
 ---
 
-## 🧠 About Me
-
-- 💡 Passionate about **solving problems using C++ and Data Structures**
-- 🔧 Love working on **end-to-end systems** — frontend, backend & databases
-- 🤖 Exploring **Cyber Security and AI-driven applications**
-- 📚 Believe in *learning deeply, from fundamentals*
-
----
-
-## 🚀 Current Focus
-
-- 🧮 Strengthening **DSA in C++** (core priority)
-- 🌐 Building **full-stack web apps** (React / Next.js / Node.js)
-- 📊 Applying **ML concepts** to real datasets
-- ⚙️ Working with **databases, APIs, and authentication systems**
+## About Me
+- Computer Science & Engineering student with a strong foundation in **core CS concepts**
+- Comfortable with **C, C++, SQL**, and **Data Structures & Algorithms**
+- Focused on writing clean, logical, and efficient code
+- Interested in building real-world software systems and improving problem-solving depth
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-`C` `C++` `Python` `JavaScript` `TypeScript` `SQL`
-
-### Frontend
-`HTML5` `CSS3` `React` `Next.js` `Vite`  
-`Tailwind CSS` `Three.js` `WebGL`
-
-### Backend & APIs
-`Node.js` `Express` `Flask`  
-`JWT Auth` `REST APIs`
-
-### Databases
-`MongoDB` `PostgreSQL` `MySQL` `SQLite` `Supabase`
-
-### ML & Data
-`NumPy` `Pandas` `Matplotlib`  
-`TensorFlow` `OpenCV`
-
-### DevOps & Tools
-`Git` `GitHub` `Nginx`  
-`Docker (learning)`  
-`Vercel` `Netlify` `Render` `Firebase`
+## Current Focus
+- Strengthening **DSA using C++**
+- Learning **full-stack development fundamentals** (frontend + backend flow)
+- Exploring **cybersecurity basics** (how systems break & how to defend them)
+- Gradually learning **AI, agent-based systems, and ML concepts** (learning stage)
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+**Languages**
+- C  
+- C++  
+- SQL  
+- Python *(basic / limited experience)*
 
-![Shashiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashiii&show_icons=true&theme=tokyonight)
+**Core CS**
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Problem Solving  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashiii&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shashiii&theme=onedark)
-
----
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: linkedin.com/in/shashank-u-016b54330
-- 📧 Email: shashank.u.shashu1359@gmail.com
-- 📸 Instagram: instagram.com/_shashank.u_/
+**Web & Tools**
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Linux / Command Line *(basic)*  
 
 ---
 
-⭐ *“Consistency beats talent when talent isn’t consistent.”*
+## Featured Projects
+> Selected based on problem-solving, system logic, and fundamentals
+
+- **[MetricsHub](https://github.com/Shashank-U-04/MetricsHub)**  
+  **Custom Business Intelligence Platform** built to replace external tools. Features a custom **SQL analytics engine**, dynamic chart generation, and robust **Role-Based Access Control (RBAC)**.  
+  *(Node.js, PostgreSQL, React, Docker)*
+
+- **[Football League Management System](https://github.com/Shashank-U-04/Football-League-Management-System)**  
+  **Sports Administration System** for managing leagues, teams, and matches. Implements complex **SQL scheduling logic**, automated point calculations, and a comprehensive admin dashboard.  
+  *(SQL, Full-Stack Web)*
+
+- **[Sign Language Understanding](https://github.com/Shashank-U-04/Sign-Language-App)**  
+  **Real-Time Accessibility Web App** utilizing **MediaPipe** for low-latency geometric landmark detection and rule-based shadow classification without heavy ML models.  
+  *(React, Javascript, Computer Vision Concepts)*
+
+- **[DS Text Encryption Project](https://github.com/Shashank-U-04/DS-Text-Encryption-Project)**  
+  **Security & Algorithms** implementation focusing on secure message handling. Features custom cipher logic and web-based visualization of encryption/decryption processes.  
+  *(JavaScript, Cryptography Concepts)*
+
+*(Projects evolve as I learn — quality over quantity.)*
+
+---
+
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-U-04&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-U-04&layout=compact&theme=default&hide_border=true&langs_count=6&hide=html,css" height="150"/>
+</p>
+
+---
+
+## GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashank-U-04&theme=flat&no-frame=true&margin-w=10&column=6"/>
+</p>
+
+---
+
+## Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+</p>
+
+---
+
+## Contact / Socials
+- **GitHub**: [github.com/Shashank-U-04](https://github.com/Shashank-U-04)  
+- **LinkedIn**: [linkedin.com/in/shashank-u-016b54330](https://linkedin.com/in/shashank-u-016b54330)  
+- **Email**: shashank.u.shashu1359@gmail.com  
+
+---
+
+*Building fundamentals first. Growing steadily toward software engineering.*
