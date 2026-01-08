@@ -7,12 +7,33 @@
 
 ### 👨‍💻 About Me
 
-🎓 I’m a **Computer Science & Engineering student** at **REVA University**.  
-💻 I’m an aspiring **Software & Full Stack Developer** with a strong interest in **Cybersecurity**.  
-🛠 I have hands-on experience with **C, C++, and SQL**, and enjoy building practical projects.  
-🚀 Currently focusing on **Data Structures & Algorithms**, problem-solving, aptitude preparation, and building real-world software projects.  
-📍 Based in **Bangalore Urban, Karnataka, India**.  
-⚡ I believe in learning by building and continuously improving through real-world practice.
+<table border="0">
+  <tr>
+    <td valign="top" width="30">🎓</td>
+    <td>I’m a <b>Computer Science & Engineering student</b> at <b>REVA University</b>.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="30">💻</td>
+    <td>I’m an aspiring <b>Software & Full Stack Developer</b> with a strong interest in <b>Cybersecurity</b>.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="30">🛠</td>
+    <td>I have hands-on experience with <b>C, C++, and SQL</b>, and enjoy building practical projects.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="30">🚀</td>
+    <td>Currently focusing on <b>Data Structures & Algorithms</b>, problem-solving, aptitude preparation, and building real-world software projects.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="30">📍</td>
+    <td>Based in <b>Bangalore Urban, Karnataka, India</b>.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="30">⚡</td>
+    <td>I believe in learning by building and continuously improving through real-world practice.</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -70,13 +91,12 @@
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-U-04&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+I am actively building projects and contributing to open source, focusing on Backend, Systems, and Computer Vision.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-U-04&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-U-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
+
 
 ---
 
@@ -130,5 +150,3 @@
 <div align="center">
   <b>Thanks for visiting! Don't forget to ⭐ star the repositories if you find them useful!</b>
 </div>
-
-Profile activity update
