@@ -11,7 +11,7 @@
 💻 I’m an aspiring **Software & Full Stack Developer** with a strong interest in **Cybersecurity**.  
 🛠 I have hands-on experience with **C, C++, and SQL**, and enjoy building practical projects.  
 🚀 Currently focusing on **Data Structures & Algorithms**, problem-solving, aptitude preparation, and building real-world software projects.  
-📍 Based in **Bangalore Urban, Karnataka, India**.
+📍 Based in **Bangalore Urban, Karnataka, India**.  
 ⚡ I believe in learning by building and continuously improving through real-world practice.
 
 ---
@@ -119,7 +119,7 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Let’s Catch Up & Connect
 
 - 📧 **Email:** shashank.u.shashu1359@gmail.com
 - 💼 **LinkedIn:** [Shashank U](https://www.linkedin.com/in/shashank-u-016b54330/)
