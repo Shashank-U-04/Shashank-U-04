@@ -11,6 +11,7 @@
 💻 I’m an aspiring **Software & Full Stack Developer** with a strong interest in **Cybersecurity**.  
 🛠 I have hands-on experience with **C, C++, and SQL**, and enjoy building practical projects.  
 🚀 Currently focusing on **Data Structures & Algorithms**, problem-solving, aptitude preparation, and building real-world software projects.  
+📍 Based in **Bangalore Urban, Karnataka, India**.
 ⚡ I believe in learning by building and continuously improving through real-world practice.
 
 ---
@@ -37,34 +38,29 @@
 #### ⚙️ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 #### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-F9D603?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### 📊 Data, AI & Analytics
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 <br/>
 <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/Isolation%20Forest-Stats-blue?style=for-the-badge" alt="Isolation Forest" />
-<img src="https://img.shields.io/badge/Z--Score-Stats-blue?style=for-the-badge" alt="Z-Score" />
+
 
 #### 🧰 DevOps, Tools & Platforms
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
 
 #### ☁️ Deployment
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -91,20 +87,20 @@
 
 ### 🚀 Featured Projects
 
-#### 📊 [MetricsHub – Business Intelligence Platform](https://github.com/Shashank-U-04/metricshub) *(In Development)*
+#### 📊 [MetricsHub – Business Intelligence Platform](https://github.com/Shashank-U-04/Metrics-Hub) *(In Development)*
 **Enterprise-style BI platform** focusing on semantic metrics, data modeling, and secure APIs.  
 **Tech:** Node.js, PostgreSQL, React, Docker, RBAC  
-🔗 [Repo](https://github.com/Shashank-U-04/metricshub)
+🔗 [Repo](https://github.com/Shashank-U-04/Metrics-Hub)
 
-#### 🔐 [Text Encryption & Decryption System](https://github.com/Shashank-U-04/Text-Encryption-Decryption-System)
+#### 🔐 [Text Encryption & Decryption System GUI](https://github.com/Shashank-U-04/Text-Encryption-Decryption-system-GUI)
 **Cryptography tool** implementing Caesar & Vigenère ciphers with a low-level C (Win32 GUI) implementation.  
 **Tech:** C, Win32 API, Algorithms  
-🔗 [Repo](https://github.com/Shashank-U-04/Text-Encryption-Decryption-System)
+🔗 [Repo](https://github.com/Shashank-U-04/Text-Encryption-Decryption-system-GUI)
 
-#### ✍️ [Real-Time Writing With Fingers (RTWWF)](https://github.com/Shashank-U-04/Real-Time-Writing-With-Fingers)
+#### ✍️ [Real-Time Writing With Fingers (RTWWF)](https://github.com/Shashank-U-04/Real-Time-Writing-with-Fingers)
 **Computer vision application** enabling real-time writing on live video using hand gesture recognition.  
 **Tech:** Python, OpenCV, MediaPipe, NumPy  
-🔗 [Repo](https://github.com/Shashank-U-04/Real-Time-Writing-With-Fingers)
+🔗 [Repo](https://github.com/Shashank-U-04/Real-Time-Writing-with-Fingers)
 
 ---
 
@@ -133,3 +129,9 @@
 - 📧 **Email:** shashank.u.shashu1359@gmail.com
 - 💼 **LinkedIn:** [Shashank U](https://www.linkedin.com/in/shashank-u-016b54330/)
 - 🧑‍💻 **GitHub:** [Shashank-U-04](https://github.com/Shashank-U-04)
+
+---
+
+<div align="center">
+  <b>Thanks for visiting! Don't forget to ⭐ star the repositories if you find them useful!</b>
+</div>
