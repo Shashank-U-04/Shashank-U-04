@@ -107,6 +107,17 @@
 <img src="https://img.shields.io/badge/Low--Level%20I%2FO-000000?style=flat" alt="Low-Level I/O" />
 </p>
 
+---
+
+### 📊 GitHub Activity
+
+I am actively building projects and contributing to open source, focusing on Backend, Systems, and Computer Vision.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shashank-U-04&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 ---
 
