@@ -107,16 +107,6 @@
 <img src="https://img.shields.io/badge/Low--Level%20I%2FO-000000?style=flat" alt="Low-Level I/O" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-I am actively building projects and contributing to open source, focusing on Backend, Systems, and Computer Vision.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-U-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
 
 ---
 
