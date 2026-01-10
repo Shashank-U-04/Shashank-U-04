@@ -109,7 +109,7 @@
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
 #### 📊 [MetricsHub – Business Intelligence Platform](https://github.com/Shashank-U-04/Metrics-Hub) *(In Development)*
 **Enterprise-style BI platform** focusing on semantic metrics, data modeling, and secure APIs.  
