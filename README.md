@@ -109,19 +109,7 @@
 
 ---
 
-### 📊 GitHub Activity
-
-I am actively building projects and contributing to open source, focusing on Backend, Systems, and Computer Vision.
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shashank-U-04&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
----
-
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 📊 [MetricsHub – Business Intelligence Platform](https://github.com/Shashank-U-04/Metrics-Hub) *(In Development)*
 **Enterprise-style BI platform** focusing on semantic metrics, data modeling, and secure APIs.  
