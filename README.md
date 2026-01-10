@@ -114,8 +114,9 @@
 I am actively building projects and contributing to open source, focusing on Backend, Systems, and Computer Vision.
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shashank-U-04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=Shashank-U-04&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
