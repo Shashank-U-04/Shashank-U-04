@@ -136,6 +136,23 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-U-04&theme=github_dark&show_icons=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shashank-U-04&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-U-04&layout=compact&hide=html,css&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-U-04&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
 ### 💼 Experience
 
 **Software Development Projects (Self-Driven / Academic)**  
