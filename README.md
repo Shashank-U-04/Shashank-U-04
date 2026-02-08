@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 #### 🌐 Frontend & Client-Side
