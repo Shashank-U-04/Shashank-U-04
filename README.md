@@ -53,10 +53,6 @@
   <img title="GitHub Pages" alt="GitHub Pages" width="42" height="42" src="https://cdn.simpleicons.org/githubpages/000000/ffffff"/>
 </p>
 
-<p align="center">
-  <sub>…and the ones without a logo of their own — <b>SQL</b> · <b>Docker Compose</b> · <b>Antigravity</b> · <b>Windows Terminal</b> · <b>Win32 API</b> · <b>low-level I/O</b></sub>
-</p>
-
 <br/><br/>
 
 <p align="center">🏆 <b>My first hackathon win — FileMind</b> <i>(Botathon 2026)</i></p>
