@@ -6,19 +6,56 @@
 
 <br/><br/>
 
-<p align="center">A little bit of everything I build with 👇</p>
+<p align="center">A little bit of everything I build with — hover any logo for its name 👇</p>
 
-<div align="center">
-<img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/><img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/><img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/><img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/><img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3"/><img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/><img title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" alt="Tailwind CSS"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL"/>
-<br/>
-<img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30" height="30" alt="Supabase"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" height="30" alt="OpenCV"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" alt="NumPy"/>
-<br/>
-<img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30" alt="Pandas"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30" height="30" alt="Scikit-learn"/><img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/><img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" alt="Google Cloud"/><img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/><img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/>
-<br/>
-<img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3"/>
-<br/>
-<img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" alt="Tailwind CSS"/><img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/><img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL"/><img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/><img title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30" height="30" alt="Supabase"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" height="30" alt="OpenCV"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" alt="NumPy"/>
-</div>
+<p align="center">
+  <img title="C" alt="C" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="C++" alt="C++" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="JavaScript" alt="JavaScript" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="TypeScript" alt="TypeScript" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Python" alt="Python" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
+
+<p align="center">
+  <img title="HTML5" alt="HTML5" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="CSS3" alt="CSS3" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="React" alt="React" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Next.js" alt="Next.js" width="42" height="42" src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff"/>&nbsp;&nbsp;&nbsp;
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Framer" alt="Framer" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="shadcn/ui" alt="shadcn/ui" width="42" height="42" src="https://cdn.simpleicons.org/shadcnui/000000/ffffff"/>
+</p>
+
+<p align="center">
+  <img title="Node.js" alt="Node.js" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Express.js" alt="Express.js" width="42" height="42" src="https://cdn.simpleicons.org/express/000000/ffffff"/>&nbsp;&nbsp;&nbsp;
+  <img title="JSON Web Tokens" alt="JWT" width="42" height="42" src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff"/>&nbsp;&nbsp;&nbsp;
+  <img title="PostgreSQL" alt="PostgreSQL" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="MySQL" alt="MySQL" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="MongoDB" alt="MongoDB" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Supabase" alt="Supabase" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
+</p>
+
+<p align="center">
+  <img title="OpenCV" alt="OpenCV" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="MediaPipe" alt="MediaPipe" width="42" height="42" src="https://cdn.simpleicons.org/mediapipe/0097A7/4DD0E1"/>&nbsp;&nbsp;&nbsp;
+  <img title="NumPy" alt="NumPy" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Pandas" alt="Pandas" width="42" height="42" src="https://cdn.simpleicons.org/pandas/150458/E0DEF7"/>&nbsp;&nbsp;&nbsp;
+  <img title="Scikit-learn" alt="Scikit-learn" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+</p>
+
+<p align="center">
+  <img title="Docker" alt="Docker" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Git" alt="Git" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Visual Studio Code" alt="VS Code" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="Vercel" alt="Vercel" width="42" height="42" src="https://cdn.simpleicons.org/vercel/000000/ffffff"/>&nbsp;&nbsp;&nbsp;
+  <img title="Google Cloud" alt="Google Cloud" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img title="GitHub Pages" alt="GitHub Pages" width="42" height="42" src="https://cdn.simpleicons.org/githubpages/000000/ffffff"/>
+</p>
+
+<p align="center">
+  <sub>…and the ones without a logo of their own — <b>SQL</b> · <b>Docker Compose</b> · <b>Antigravity</b> · <b>Windows Terminal</b> · <b>Win32 API</b> · <b>low-level I/O</b></sub>
+</p>
 
 <br/><br/>
 
