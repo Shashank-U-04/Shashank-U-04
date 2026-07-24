@@ -4,7 +4,7 @@
   Currently doing my <b>B.Tech in Computer Science & Engineering</b> at <b>REVA University</b> 🎓
 </p>
 
-<br/>
+<br/><br/>
 
 <p align="center">A little bit of everything I build with 👇</p>
 
@@ -20,7 +20,7 @@
 <img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" alt="Tailwind CSS"/><img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/><img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL"/><img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/><img title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30" height="30" alt="Supabase"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" height="30" alt="OpenCV"/><img src="assets/spacer.svg" width="30" height="30" alt=""/><img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" alt="NumPy"/>
 </div>
 
-<br/>
+<br/><br/>
 
 <p align="center">🏆 <b>My first hackathon win — FileMind</b> <i>(Botathon 2026)</i></p>
 
@@ -35,7 +35,7 @@
   <a href="https://github.com/Shashank-U-04/botathon"><b>💻 Peek at the code</b></a>
 </p>
 
-<br/>
+<br/><br/>
 
 <p align="center">I'd love to chat 👋</p>
 
