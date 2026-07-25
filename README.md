@@ -9,7 +9,7 @@
 <p align="center">A little bit of everything I build with 👇</p>
 
 <p align="center">
-  <img src="assets/tech.svg" width="700" alt="TECH spelled out with the logos of the 36 technologies I use"/>
+  <img src="assets/dev.svg" width="700" alt="DEV spelled out with the logos of the 36 technologies I use"/>
 </p>
 
 <br/><br/>
