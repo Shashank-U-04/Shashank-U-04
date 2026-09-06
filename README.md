@@ -12,14 +12,15 @@
 
 <p align="left">
   <img src="assets/filemind.webp" align="left" width="180" alt="FileMind Screenshot" style="border-radius: 8px; margin-right: 20px;" />
-  🏆 <b>My first hackathon win — FileMind</b> <i>(Botathon 2026)</i><br/>
+  🏆 <b>My first hackathon win — FileMind</b> <i>(Botathon 2026)</i><br/><br/>
   A codebase investigation agent that explores code the way a curious engineer would —<br/>
   it walks the file tree, follows the imports, and points you to the exact files it read.<br/>
-  Works on your local project or any public GitHub repo.<br/>
+  Works on your local project or any public GitHub repo.<br/><br/>
   <a href="https://botathon-nine.vercel.app/"><b>🔗 Try it live</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/Shashank-U-04/botathon"><b>💻 Peek at the code</b></a>
 </p>
 <br clear="both"/>
+<br/>
 
 <p align="center">
   I'd love to chat 👋 &nbsp;·&nbsp;
