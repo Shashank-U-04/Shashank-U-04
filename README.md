@@ -21,9 +21,8 @@
 </p>
 <br clear="both"/>
 
-<p align="center">I'd love to chat 👋</p>
-
 <p align="center">
+  I'd love to chat 👋 &nbsp;·&nbsp;
   <a href="mailto:shashank.u.shashu1359@gmail.com"><b>✉ Email</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/Shashank-U-04"><b>🧑‍💻 GitHub</b></a>
