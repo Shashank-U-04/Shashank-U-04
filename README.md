@@ -20,8 +20,6 @@
   <a href="https://github.com/Shashank-U-04/botathon"><b>💻 Peek at the code</b></a>
 </p>
 <br clear="both"/>
-<br/>
-
 <p align="center">
   I'd love to chat 👋 &nbsp;·&nbsp;
   <a href="mailto:shashank.u.shashu1359@gmail.com"><b>✉ Email</b></a> &nbsp;·&nbsp;
