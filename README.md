@@ -12,7 +12,7 @@
 
 <p align="left">
   <img src="assets/filemind.webp" align="left" width="180" alt="FileMind Screenshot" style="border-radius: 8px; margin-right: 20px;" />
-  🏆 <b>FileMind — repo found its way to the winners list</b> <i>(Botathon 2026)</i><br/><br/>
+  🏆 <b>FileMind — featured in the winners list</b> <i>(Botathon 2026)</i><br/><br/>
   A codebase investigation agent that explores code the way a curious engineer would —<br/>
   it walks the file tree, follows the imports, and points you to the exact files it read.<br/>
   Works on your local project or any public GitHub repo.<br/><br/>
