@@ -4,6 +4,8 @@
   Currently doing my <b>B.Tech in Computer Science & Engineering</b> at <b>REVA University</b> 🎓
 </p>
 
+<br/><br/>
+
 <p align="left">
   <img src="assets/filemind.webp" align="left" width="180" alt="FileMind Screenshot" style="border-radius: 8px; margin-right: 20px;" />
   🏆 <b>FileMind — featured in the winners list</b> <i>(Botathon 2026)</i><br/><br/>
