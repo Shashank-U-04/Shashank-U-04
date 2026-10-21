@@ -12,7 +12,7 @@
 
 <p align="left">
   <img src="assets/filemind.webp" align="left" width="180" alt="FileMind Screenshot" style="border-radius: 8px; margin-right: 20px;" />
-  🏆 <b>My first hackathon win — FileMind</b> <i>(Botathon 2026)</i><br/><br/>
+  🏆 <b>FileMind — repo found its way to the winners list</b> <i>(Botathon 2026)</i><br/><br/>
   A codebase investigation agent that explores code the way a curious engineer would —<br/>
   it walks the file tree, follows the imports, and points you to the exact files it read.<br/>
   Works on your local project or any public GitHub repo.<br/><br/>
@@ -20,9 +20,11 @@
   <a href="https://github.com/Shashank-U-04/botathon"><b>💻 Peek at the code</b></a>
 </p>
 <br clear="both"/>
-<p align="center">
-  I'd love to chat 👋 &nbsp;·&nbsp;
-  <a href="mailto:shashank.u.shashu1359@gmail.com"><b>✉ Email</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Shashank-U-04"><b>🧑‍💻 GitHub</b></a>
-</p>
+
+### find me
+
+github → [Shashank-U-04](https://github.com/Shashank-U-04) &nbsp; linkedin → [/in/shashank-u-016b54330](https://www.linkedin.com/in/shashank-u-016b54330/) &nbsp; email → [shashank.u.shashu1359@gmail.com](mailto:shashank.u.shashu1359@gmail.com)
+
+```
+p.s. the above text was just random bs over gpt slop. thanks for reading <3
+```
