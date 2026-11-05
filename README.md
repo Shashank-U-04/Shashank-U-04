@@ -1,4 +1,9 @@
-[![Interactive Piano](https://img.shields.io/badge/🎹_Play_My_Piano-Interactive-58a6ff?style=for-the-badge&logo=appveyor)](https://shashank-u-04.github.io/piano/)
+<div align="center">
+  <h3>🎹 Play My Interactive Profile Piano</h3>
+  <a href="https://shashank-u-04.github.io/piano/">
+    <img src="https://img.shields.io/badge/Click_Here_to_Play-Interactive_Piano-58a6ff?style=for-the-badge&logo=appveyor&logoColor=white" alt="Interactive Piano" />
+  </a>
+</div>
 
 <h2 align="center">Turning curiosity into working software ✨</h2>
 
