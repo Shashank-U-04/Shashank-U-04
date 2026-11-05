@@ -1,3 +1,5 @@
+[![Interactive Piano](https://img.shields.io/badge/🎹_Play_My_Piano-Interactive-58a6ff?style=for-the-badge&logo=appveyor)](https://shashank-u-04.github.io/piano/)
+
 <h2 align="center">Turning curiosity into working software ✨</h2>
 
 <p align="center">
