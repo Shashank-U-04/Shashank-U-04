@@ -52,20 +52,15 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-27272a?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github_dark"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github" width="100%" alt="My most used languages by repo"/>
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/><br/>
-      <sub>my koi · <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github" width="60%" alt="My most used languages by repo"/>
+  </picture>
+  <img src="koi/koi.gif" width="35%" alt="My koi, redrawn every night from my GitHub activity"/>
+  <br/>
+  <sub>my koi is redrawn nightly from my GitHub activity by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+</p>
 
 ### Connect
 
