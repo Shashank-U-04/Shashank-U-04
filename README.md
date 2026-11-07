@@ -45,6 +45,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-27272a?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-27272a?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-27272a?style=flat-square&logo=supabase&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-27272a?style=flat-square&logo=firebase&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27272a?style=flat-square&logo=opencv&logoColor=white"/>
   <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-27272a?style=flat-square&logo=mediapipe&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-27272a?style=flat-square&logo=docker&logoColor=white"/>
