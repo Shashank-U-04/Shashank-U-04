@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-  <img alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b" height="28"/>
-  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b" height="28"/>
-  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-3f3f46?style=flat-square&labelColor=18181b" height="28"/>
+  <img alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b" width="286"/>
+  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b" width="224"/>
+  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-3f3f46?style=flat-square&labelColor=18181b" width="241"/>
 </p>
 
 <p align="center">
@@ -54,17 +54,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github" width="46%" align="middle" alt="My most used languages by repo"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg"/>
+    <img src="assets/langs-light.svg" width="46%" align="middle" alt="Languages by repo count"/>
   </picture>
   <img src="koi/koi.gif" width="46%" align="middle" alt="My koi, redrawn every night from my GitHub activity"/>
 </p>
 
-### Connect
-
 <p align="center">
-<a href="https://shashanku.vercel.app/"><img src="assets/social-portfolio.svg" width="24%" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img src="assets/social-linkedin.svg" width="24%" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/Shashank-U/"><img src="assets/social-leetcode.svg" width="24%" alt="LeetCode"/></a>
-<a href="mailto:shashank.u.shashu1359@gmail.com"><img src="assets/social-email.svg" width="24%" alt="Email"/></a>
+<a href="https://shashanku.vercel.app/"><img src="assets/social-portfolio.svg" width="17%" alt="Portfolio"/></a>&emsp;
+<a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img src="assets/social-linkedin.svg" width="17%" alt="LinkedIn"/></a>&emsp;
+<a href="https://leetcode.com/u/Shashank-U/"><img src="assets/social-leetcode.svg" width="17%" alt="LeetCode"/></a>&emsp;
+<a href="mailto:shashank.u.shashu1359@gmail.com"><img src="assets/social-email.svg" width="17%" alt="Email"/></a>
 </p>
