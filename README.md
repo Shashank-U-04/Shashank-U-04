@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  CSE student building software that solves real problems, from the browser to the backend.<br/>
-  <a href="https://shashanku.vercel.app/"><b>shashanku.vercel.app →</b></a>
+  CSE student building software that solves real problems, from the browser to the backend.
 </p>
 
 ### Honors
