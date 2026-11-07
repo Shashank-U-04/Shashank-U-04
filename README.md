@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-  <img alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b"/>
-  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b"/>
-  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-3f3f46?style=flat-square&labelColor=18181b"/>
+  <img alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b" height="24"/>
+  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b" height="24"/>
+  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-3f3f46?style=flat-square&labelColor=18181b" height="24"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 **FileMind**, an agent that explores codebases like a developer and cites every file it read. [Live](https://botathon-nine.vercel.app/) · [Code](https://github.com/Shashank-U-04/botathon)
 
 🥈 **HackFest 2026 · Runner-up**, AI Nexus track<br/>
-**Sketchy**, a forensic sketch workspace. I built the backend, the image-generation server and bloodstain analysis.
+**Sketchy**, a forensic sketch workspace. I built the backend, the image-generation server and bloodstain analysis. [Blog](https://shashanku.vercel.app/blog/sketchy-hackfest-2026)
 
 ### Tools
 
@@ -55,18 +55,16 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github" width="60%" alt="My most used languages by repo"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github" width="46%" align="middle" alt="My most used languages by repo"/>
   </picture>
-  <img src="koi/koi.gif" width="35%" alt="My koi, redrawn every night from my GitHub activity"/>
-  <br/>
-  <sub>my koi is redrawn nightly from my GitHub activity by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+  <img src="koi/koi.gif" width="46%" align="middle" alt="My koi, redrawn every night from my GitHub activity"/>
 </p>
 
 ### Connect
 
 <p>
-  <a href="https://shashanku.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Shashank-U/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-9333ea?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:shashank.u.shashu1359@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-9333ea?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://shashanku.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-3f3f46?style=for-the-badge&logo=vercel&logoColor=white&labelColor=18181b"/></a>
+  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-3f3f46?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=white&labelColor=18181b"/></a>
+  <a href="https://leetcode.com/u/Shashank-U/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-3f3f46?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=18181b"/></a>
+  <a href="mailto:shashank.u.shashu1359@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-3f3f46?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b"/></a>
 </p>
