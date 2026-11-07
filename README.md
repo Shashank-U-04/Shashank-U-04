@@ -56,10 +56,6 @@
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashank-U-04&theme=github_dark"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashank-U-04&theme=github" width="100%" alt="My GitHub activity"/>
-      </picture>
-      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github_dark"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github" width="100%" alt="My most used languages by repo"/>
       </picture>
