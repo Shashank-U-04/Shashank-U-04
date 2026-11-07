@@ -1,61 +1,73 @@
-<h2 align="center">Turning curiosity into working software ✨</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
+  <img src="assets/banner-light.svg" width="100%" alt="Shashank U. Turning curiosity into working software."/>
+</picture>
 
 <p align="center">
-  Currently doing my <b>B.Tech in Computer Science & Engineering</b> at <b>REVA University</b> 🎓
+  <img alt="Botathon 2026: 2x Track Winner" src="https://img.shields.io/badge/Botathon_2026-2×_Track_Winner-ec4899?style=for-the-badge&labelColor=9333ea"/>
+  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-ec4899?style=for-the-badge&labelColor=9333ea"/>
+  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-ec4899?style=for-the-badge&labelColor=9333ea"/>
 </p>
 
-<br/><br/>
-
-<p align="left">
-  <img src="assets/filemind.webp" align="left" width="180" alt="FileMind Screenshot" style="border-radius: 8px; margin-right: 20px;" />
-  🏆 <b>FileMind — featured in the winners list</b> <i>(Botathon 2026)</i><br/><br/>
-  A codebase investigation agent that explores code the way a curious engineer would —<br/>
-  it walks the file tree, follows the imports, and points you to the exact files it read.<br/>
-  Works on your local project or any public GitHub repo.<br/><br/>
-  <a href="https://botathon-nine.vercel.app/"><b>🔗 Try it live</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Shashank-U-04/botathon"><b>💻 Peek at the code</b></a>
-</p>
-<br clear="both"/>
-
-<p align="left">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> &nbsp;&nbsp;
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> &nbsp;&nbsp;
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=mediapipe&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Win32 API" src="https://img.shields.io/badge/Win32_API-0078D4?style=flat&logo=windows&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="Low-Level I/O" src="https://img.shields.io/badge/Low--Level_I%2FO-1f2328?style=flat"/> &nbsp;&nbsp;
-  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4?style=flat"/>
+<p align="center">
+  CSE student building software that solves real problems, from the browser to the backend.<br/>
+  <a href="https://shashanku.vercel.app/"><b>shashanku.vercel.app →</b></a>
 </p>
 
-### find me
+### Honors
 
-github → [Shashank-U-04](https://github.com/Shashank-U-04) &nbsp; linkedin → [/in/shashank-u-016b54330](https://www.linkedin.com/in/shashank-u-016b54330/) &nbsp; email → [shashank.u.shashu1359@gmail.com](mailto:shashank.u.shashu1359@gmail.com)
+🏆 **Botathon 2026 · Track Winner**, Apify & SuperPlane tracks<br/>
+**FileMind**, an agent that explores codebases like a developer and cites every file it read. [Live](https://botathon-nine.vercel.app/) · [Code](https://github.com/Shashank-U-04/botathon)
+
+🥈 **HackFest 2026 · Runner-up**, AI Nexus track<br/>
+**Sketchy**, a forensic sketch workspace. I built the backend, the image-generation server and bloodstain analysis.
+
+### Tools
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-27272a?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-27272a?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-27272a?style=flat-square&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-27272a?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-27272a?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-27272a?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-27272a?style=flat-square&logo=css&logoColor=white"/>
+</p>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-27272a?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-27272a?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-27272a?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-27272a?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-27272a?style=flat-square&logo=express&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-27272a?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-27272a?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-27272a?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-27272a?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-27272a?style=flat-square&logo=supabase&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27272a?style=flat-square&logo=opencv&logoColor=white"/>
+  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-27272a?style=flat-square&logo=mediapipe&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-27272a?style=flat-square&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-27272a?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-27272a?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-27272a?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-27272a?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-27272a?style=flat-square&logo=vercel&logoColor=white"/></p>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/><br/>
+  <sub>my koi, redrawn nightly from my GitHub activity by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+</p>
+
+### Connect
+
+<p>
+  <a href="https://shashanku.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Shashank-U/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-9333ea?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:shashank.u.shashu1359@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-9333ea?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
