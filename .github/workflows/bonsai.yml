@@ -1,0 +1,24 @@
+# Grows a pixel-art bonsai from my GitHub history (https://github.com/egorthinks/git-bonsai)
+# and commits it to bonsai/, which README.md embeds.
+name: Bonsai
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # re-grow daily
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/bonsai.yml]
+
+permissions:
+  contents: write
+
+concurrency: bonsai
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: egorthinks/git-bonsai@v1
+        with:
+          output-dir: bonsai
