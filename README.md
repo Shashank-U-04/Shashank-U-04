@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
-  <img src="assets/banner-light.svg" width="100%" alt="Shashank U. Turning curiosity into working software."/>
+  <img src="assets/banner-light.svg" width="100%" alt="Shashank U. Turning curiosity into working software. Full stack, backend, AI agents, applied ML, game dev."/>
 </picture>
 
 <p align="center">
