@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-  <img alt="Botathon 2026: 2x Track Winner" src="https://img.shields.io/badge/Botathon_2026-2×_Track_Winner-ec4899?style=for-the-badge&labelColor=9333ea"/>
-  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-ec4899?style=for-the-badge&labelColor=9333ea"/>
-  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-ec4899?style=for-the-badge&labelColor=9333ea"/>
+  <img alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b"/>
+  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b"/>
+  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-3f3f46?style=flat-square&labelColor=18181b"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### Honors
 
-🏆 **Botathon 2026 · Track Winner**, Apify & SuperPlane tracks<br/>
+🏆 **Botathon 2026 · Winner**, Apify & SuperPlane tracks<br/>
 **FileMind**, an agent that explores codebases like a developer and cites every file it read. [Live](https://botathon-nine.vercel.app/) · [Code](https://github.com/Shashank-U-04/botathon)
 
 🥈 **HackFest 2026 · Runner-up**, AI Nexus track<br/>
@@ -45,23 +45,31 @@
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-27272a?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-27272a?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-27272a?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-27272a?style=flat-square&logo=supabase&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27272a?style=flat-square&logo=opencv&logoColor=white"/>
   <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-27272a?style=flat-square&logo=mediapipe&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-27272a?style=flat-square&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-27272a?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-<p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-27272a?style=flat-square&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-27272a?style=flat-square&logo=git&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-27272a?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-27272a?style=flat-square&logo=vercel&logoColor=white"/></p>
-
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/><br/>
-  <sub>my koi, redrawn nightly from my GitHub activity by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashank-U-04&theme=github_dark"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashank-U-04&theme=github" width="100%" alt="My GitHub activity"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github_dark"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-U-04&theme=github" width="100%" alt="My most used languages by repo"/>
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity"/><br/>
+      <sub>my koi · <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+    </td>
+  </tr>
+</table>
 
 ### Connect
 
