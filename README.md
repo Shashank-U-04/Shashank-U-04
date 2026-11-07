@@ -62,9 +62,9 @@
 
 ### Connect
 
-<p>
-  <a href="https://shashanku.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-3f3f46?style=for-the-badge&logo=vercel&logoColor=white&labelColor=18181b"/></a>
-  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-3f3f46?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=white&labelColor=18181b"/></a>
-  <a href="https://leetcode.com/u/Shashank-U/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-3f3f46?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=18181b"/></a>
-  <a href="mailto:shashank.u.shashu1359@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-3f3f46?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b"/></a>
+<p align="center">
+<a href="https://shashanku.vercel.app/"><img src="assets/social-portfolio.svg" width="24%" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img src="assets/social-linkedin.svg" width="24%" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Shashank-U/"><img src="assets/social-leetcode.svg" width="24%" alt="LeetCode"/></a>
+<a href="mailto:shashank.u.shashu1359@gmail.com"><img src="assets/social-email.svg" width="24%" alt="Email"/></a>
 </p>
