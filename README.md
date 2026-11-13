@@ -3,6 +3,13 @@
   <img src="assets/hero-light.svg" width="100%" alt="Shashank U. Turning curiosity into working software. Full stack, AI agents, applied ML, game dev."/>
 </picture>
 
+<br/>
+<br/>
+
+<p align="center">
+  CSE student building software that solves real problems, from the browser to the backend.
+</p>
+
 <p align="center">
   <img height="24" alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b"/>
   <img height="24" alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b"/>
@@ -10,14 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://shashanku.vercel.app/"><img height="24" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-27272a?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img height="24" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-27272a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2NCAyLjA2NCAwIDEgMSAwLTQuMTI4IDIuMDY0IDIuMDY0IDAgMCAxIDAgNC4xMjh6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Shashank-U/"><img height="24" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-27272a?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://shashanku.vercel.app/"><img height="24" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-27272a?style=flat-square&logo=vercel&logoColor=white"/></a>&emsp;
+  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img height="24" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-27272a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2NCAyLjA2NCAwIDEgMSAwLTQuMTI4IDIuMDY0IDIuMDY0IDAgMCAxIDAgNC4xMjh6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white"/></a>&emsp;
+  <a href="https://leetcode.com/u/Shashank-U/"><img height="24" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-27272a?style=flat-square&logo=leetcode&logoColor=white"/></a>&emsp;
   <a href="mailto:shashank.u.shashu1359@gmail.com"><img height="24" alt="Email" src="https://img.shields.io/badge/Email-27272a?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  CSE student building software that solves real problems, from the browser to the backend.
 </p>
 
 ### Tools
