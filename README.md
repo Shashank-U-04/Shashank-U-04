@@ -4,22 +4,21 @@
 </picture>
 
 <p align="center">
-  <img alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b" width="286"/>
-  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b" width="224"/>
-  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-3f3f46?style=flat-square&labelColor=18181b" width="241"/>
+  <img alt="Botathon 2026: Winner in 2 tracks" src="https://img.shields.io/badge/Botathon_2026-Winner_in_2_Tracks-3f3f46?style=flat-square&labelColor=18181b"/>
+  <img alt="HackFest 2026: Runner-up" src="https://img.shields.io/badge/HackFest_2026-Runner--up-3f3f46?style=flat-square&labelColor=18181b"/>
+  <img alt="REVA University: B.Tech CSE" src="https://img.shields.io/badge/REVA_University-B.Tech_CSE-3f3f46?style=flat-square&labelColor=18181b"/>
+</p>
+
+<p align="center">
+  <a href="https://shashanku.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-27272a?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-27272a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2NCAyLjA2NCAwIDEgMSAwLTQuMTI4IDIuMDY0IDIuMDY0IDAgMCAxIDAgNC4xMjh6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Shashank-U/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-27272a?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:shashank.u.shashu1359@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-27272a?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
   CSE student building software that solves real problems, from the browser to the backend.
 </p>
-
-### Honors
-
-🏆 **Botathon 2026 · Winner**, Apify & SuperPlane tracks<br/>
-**FileMind**, an agent that explores codebases like a developer and cites every file it read. [Live](https://botathon-nine.vercel.app/) · [Code](https://github.com/Shashank-U-04/botathon)
-
-🥈 **HackFest 2026 · Runner-up**, AI Nexus track<br/>
-**Sketchy**, a forensic sketch workspace. I built the backend, the image-generation server and bloodstain analysis. [Blog](https://shashanku.vercel.app/blog/sketchy-hackfest-2026)
 
 ### Tools
 
@@ -52,17 +51,18 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-27272a?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
+### Honors
+
+🏆 **Botathon 2026 · Winner**, Apify & SuperPlane tracks<br/>
+**FileMind**, an agent that explores codebases like a developer and cites every file it read. [Live](https://botathon-nine.vercel.app/) · [Code](https://github.com/Shashank-U-04/botathon)
+
+🥈 **HackFest 2026 · Runner-up**, AI Nexus track<br/>
+**Sketchy**, a forensic sketch workspace. I built the backend, the image-generation server and bloodstain analysis. [Blog](https://shashanku.vercel.app/blog/sketchy-hackfest-2026)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg"/>
     <img src="assets/langs-light.svg" width="46%" align="middle" alt="Languages by repo count"/>
   </picture>
   <img src="koi/koi.gif" width="46%" align="middle" alt="My koi, redrawn every night from my GitHub activity"/>
-</p>
-
-<p align="center">
-<a href="https://shashanku.vercel.app/"><img src="assets/social-portfolio.svg" width="17%" alt="Portfolio"/></a>&emsp;
-<a href="https://www.linkedin.com/in/shashank-u-016b54330/"><img src="assets/social-linkedin.svg" width="17%" alt="LinkedIn"/></a>&emsp;
-<a href="https://leetcode.com/u/Shashank-U/"><img src="assets/social-leetcode.svg" width="17%" alt="LeetCode"/></a>&emsp;
-<a href="mailto:shashank.u.shashu1359@gmail.com"><img src="assets/social-email.svg" width="17%" alt="Email"/></a>
 </p>
